@@ -1,0 +1,22 @@
+各个文件说明
+
+
+
+1、基于数据挖掘的森林火灾预测.docx   
+   操作报告
+
+
+2、forestfires.csv    forestfires.names
+   从  http://archive.ics.uci.edu/ml/datasets/Forest+Fires  下载的数据   
+
+
+3、支持向量机.str   支持向量机2.str
+   实验流文件
+
+
+4、数据说明.docx
+   数据的详细信息
+
+
+5、fires.pdf
+   数据源相关论文
